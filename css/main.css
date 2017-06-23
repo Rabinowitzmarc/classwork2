@@ -1,0 +1,27 @@
+.test {
+  border:1px solid yellow;
+  background-color: green;
+}
+
+.test h1.styleSwitch {
+  border:1px solid red;
+  background-color: blue;
+}
+
+.hover {
+  height:200px;
+  width:200px;
+  border: solid 1px blue;
+  background-color: yellow;
+}
+
+.hovers {
+  height:200px;
+  width:200px;
+  border: solid 1px yellow;
+  background-color: red;
+}
+
+.red {
+  color:red;
+}
